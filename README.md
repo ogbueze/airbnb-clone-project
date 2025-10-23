@@ -134,3 +134,38 @@ Each role plays a vital part in the project’s success:
 - **Scrum Masters** maintain team efficiency and communication.
 
 ---
+
+---
+
+## 🧩 UI Component Patterns
+
+A well-structured UI relies on consistent and reusable components. The following components will be designed and implemented to ensure uniformity, responsiveness, and maintainability across the application.
+
+### Planned Components
+
+#### 🧭 Navbar
+
+- **Logo** – Represents brand identity and links back to the homepage.
+- **Search Bar** – Allows users to search for properties or destinations.
+- **User Navigation** – Contains links for login, sign-up, and profile access.
+- **Responsive Menu** – Adjusts layout and options for mobile and desktop views.
+
+#### 🏡 Property Card
+
+- **Property Image** – Displays the main photo of the property.
+- **Basic Details** – Shows key information such as price, location, and rating.
+- **Favorite Button** – Lets users mark properties as favorites.
+- **Responsive Layout** – Automatically adapts to different screen sizes for a seamless experience.
+
+#### ⚙️ Footer
+
+- **Site Links** – Provides navigation to important pages such as About, Contact, and Help.
+- **Company Information** – Displays brief company details and contact information.
+- **Social Media Links** – Links to social profiles for user engagement.
+- **Copyright Information** – Displays ownership and legal information.
+
+---
+
+Each component will be designed for **reusability, consistency, and responsiveness**, ensuring a smooth and intuitive user experience across all devices.
+
+---
