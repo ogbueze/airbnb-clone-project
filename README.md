@@ -104,3 +104,33 @@ It allows developers and designers to:
 - Produce a product that **faithfully matches the Figma prototype** and delivers a better user experience.
 
 ---
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+Clearly defining roles ensures smooth collaboration, accountability, and a structured workflow throughout the project lifecycle.
+
+| **Role**                | **Responsibilities**                                                                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | Oversees the project timeline, coordinates the team, and manages deliverables to ensure milestones are met efficiently.                  |
+| **Frontend Developers** | Implement user interface (UI) components, ensure responsive design, and maintain visual consistency with the design system.              |
+| **Backend Developers**  | Build and maintain APIs, manage the database, and implement business logic to handle data flow and server-side operations.               |
+| **Designers**           | Create Figma mockups, define design properties, maintain the design system, and ensure a high-quality user experience (UX).              |
+| **QA/Testers**          | Develop test cases, perform functional and regression testing, identify and report bugs, and ensure the system meets quality standards.  |
+| **DevOps Engineers**    | Manage deployment pipelines, maintain CI/CD processes, and ensure scalability and uptime through efficient server infrastructure.        |
+| **Product Owner**       | Define product requirements, prioritize features, and represent stakeholder interests to align business goals with development progress. |
+| **Scrum Master**        | Facilitate Agile ceremonies, remove blockers, and help the team stay organized, focused, and aligned with sprint goals.                  |
+
+---
+
+Each role plays a vital part in the project’s success:
+
+- **Project Managers** keep everything on schedule.
+- **Developers and Designers** turn ideas into reality.
+- **QA/Testers** ensure reliability.
+- **DevOps Engineers** make deployment seamless.
+- **Product Owners** ensure the product meets user needs.
+- **Scrum Masters** maintain team efficiency and communication.
+
+---
