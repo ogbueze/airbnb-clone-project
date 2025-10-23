@@ -60,3 +60,47 @@ When users find it easy to search, view details, and complete bookings:
 - They make fewer mistakes during checkout.
 - They are more likely to complete a booking and return in the future.  
   A smooth, intuitive design ultimately translates to **higher engagement and customer satisfaction**.
+
+---
+
+### 🎨 Figma Design Specifications
+
+You can view the full design prototype on Figma:  
+🔗 [Project Airbnb – Figma Design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=3-87&t=WzIdnoYxh04UcbKU-0)
+
+---
+
+#### 🧩 Color Styles
+
+| Color Name         | Hex Code  | Usage                                              |
+| ------------------ | --------- | -------------------------------------------------- |
+| **Primary**        | `#FF5A5F` | Main accent color used for buttons and highlights. |
+| **Secondary**      | `#008489` | Used for links, icons, and supportive accents.     |
+| **Background**     | `#FFFFFF` | Primary background color for all pages.            |
+| **Text**           | `#222222` | Main text color for body and titles.               |
+| **Secondary Text** | `#717171` | Used for subtitles, hints, and descriptions.       |
+
+---
+
+#### 🖋️ Typography
+
+| Text Role          | Font Family | Font Weight  | Font Size | Usage                                |
+| ------------------ | ----------- | ------------ | --------- | ------------------------------------ |
+| **Primary Font**   | Circular    | Medium (500) | 16px      | Default body text and buttons.       |
+| **Headings**       | Circular    | Bold (700)   | 24px–32px | Page titles and section headers.     |
+| **Secondary Text** | Circular    | Book (400)   | 14px      | Labels, captions, and minor content. |
+
+---
+
+### 🧠 Importance of Identifying Design Properties
+
+Identifying design properties ensures **consistency and accuracy** when converting mockups into functional UI elements.  
+It allows developers and designers to:
+
+- Maintain a **unified visual identity** across all pages.
+- Ensure **readability and accessibility** by following defined font and color standards.
+- **Reduce development time** through reusable style tokens and CSS variables.
+- Support **collaboration** between design and engineering teams.
+- Produce a product that **faithfully matches the Figma prototype** and delivers a better user experience.
+
+---
